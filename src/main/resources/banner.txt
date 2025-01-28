@@ -1,0 +1,12 @@
+                ${AnsiColor.BRIGHT_WHITE}                                                                                ${AnsiBackground.DEFAULT}
+                ${AnsiStyle.BOLD}                                                                                       ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.BRIGHT_BLACK}                                                                          ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.BRIGHT_BLACK}          ,---.            ,--.  ,--.        ,---.                          ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.BRIGHT_BLACK}         /  O  \ ,--.,--.,-'  '-.|  ,---.   /  O  \  ,---.  ,---.           ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.BRIGHT_BLACK}        |  .-.  ||  ||  |'-.  .-'|  .-.  | |  .-.  || .-. || .-. |          ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.BRIGHT_BLACK}        |  | |  |'  ''  '  |  |  |  | |  | |  | |  || '-' '| '-' '          ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.BRIGHT_BLACK}        `--' `--' `----'   `--'  `--' `--' `--' `--'|  |-' |  |-'           ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.BRIGHT_BLACK}                                                    `--'   `--'             ${AnsiBackground.DEFAULT}
+                ${AnsiColor.WHITE}                                                                                      ${AnsiBackground.DEFAULT}
+                ${AnsiStyle.NORMAL}                                                                                     ${AnsiBackground.DEFAULT}
+                ${AnsiBackground.DEFAULT}                                                                               ${AnsiBackground.DEFAULT}
